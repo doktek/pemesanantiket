@@ -1,0 +1,1 @@
+<div align='center'>Pemesanan Sukses, kembali ke <a href='beranda.php?id=<?php echo $row['id_pesan']?>'>HOME</a></div>";
